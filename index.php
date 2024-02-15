@@ -59,6 +59,6 @@
         </tfoot>
     </table>
 </div>
-<script src="ajax_form_script.js"></script>
+<script src="js/ajax_form_script.js"></script>
 </body>
 </html>
